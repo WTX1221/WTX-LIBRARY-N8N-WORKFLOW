@@ -1,1 +1,1 @@
-# N8N-WORKFLOW
+# N8N WORKFLOW Automation Templates - SENKU Library
